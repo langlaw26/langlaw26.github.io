@@ -1,4 +1,4 @@
-# Nerfies
+# LangLaw: Discovery of Interpretable Physical Laws in Materials via Language-Model-Guided Symbolic Regression
 
 This is the repository that contains the website for the [LangLaw](https://arxiv.org/abs/2602.22967).
 
