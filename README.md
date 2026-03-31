@@ -1,14 +1,17 @@
 # Nerfies
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains the website for the [LangLaw](https://arxiv.org/abs/2602.22967).
 
-If you find Nerfies useful for your work please cite:
+If you find LangLaw useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@misc{guan2026discoveryinterpretablephysicallaws,
+      title={Discovery of Interpretable Physical Laws in Materials via Language-Model-Guided Symbolic Regression}, 
+      author={Yifeng Guan and Chuyi Liu and Dongzhan Zhou and Lei Bai and Wan-jian Yin and Jingyuan Li and Mao Su},
+      year={2026},
+      eprint={2602.22967},
+      archivePrefix={arXiv},
+      primaryClass={physics.comp-ph},
+      url={https://arxiv.org/abs/2602.22967}, 
 }
 ```
 
